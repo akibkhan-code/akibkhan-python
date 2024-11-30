@@ -1,2 +1,2 @@
-# akibkhan-python
+# python-codes
 This is my first Git Repository
